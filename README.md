@@ -1,7 +1,7 @@
-# Chat App Using Flask-SocketIO & Deployed in Heroku
+# Chat App Using Flask-SocketIO 
 
 ## Introduction
-This is a chat application, implemented using Flask-SocketIO with both the database (PostgreSQL) and the app deployed in Heroku. It also has user registration and authentication functionalities.
+This is a chat application, implemented using Flask-SocketIO with the database (PostgreSQL) deployed in Heroku. It also has user registration and authentication functionalities.
 
 ## Files in the program
 - **application.py**: This is the main app file and contains both the registration/login page logic and the Flask-SocketIO backend for the app.
