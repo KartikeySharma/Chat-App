@@ -29,5 +29,3 @@ app.config['SQLALCHEMY_DATABASE_URI']=os.environ.get('DATABASE_URL')
 foo@bar:~$ python create.py
 ```
 
-## License
-[CC-BY](https://creativecommons.org/licenses/by/3.0/)
